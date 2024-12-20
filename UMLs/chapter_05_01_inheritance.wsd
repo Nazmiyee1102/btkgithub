@@ -28,6 +28,12 @@ class SchoolBus extends Bus{
 +getFare()
 }
 
+Bus -u-|> Vehicle : <<extends>>
+Truck -u-|> Vehicle : <<extends>>
+Car -u-|> Vehicle : <<extends>>
+SchoolBus -u-|> Bus : <<extends>>
+
+
 hide empty members
 
 @enduml
