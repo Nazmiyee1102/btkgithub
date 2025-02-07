@@ -1,8 +1,10 @@
 # btkgithub
 
-bölümde Python ile OOP' un karakteristik özelliklerinden bahsettik.
+ÃœÃ§Ã¼ncÃ¼ bÃ¶lÃ¼mde Python ile OOP' un karakteristik Ã¶zelliklerinden bahsettik.
 
-Dördüncü bölümde Python ile soyutlama, kalıtım ve çokbiçimlilik konularını işledik. Kurucu metot yazdık. Sınıf tanımlamamızı yaptık.
+DÃ¶rdÃ¼ncÃ¼ bÃ¶lÃ¼mde Python ile soyutlama, kalÄ±tÄ±m ve Ã§okbiÃ§imlilik konularÄ±nÄ± iÅŸledik. Kurucu metot yazdÄ±k. SÄ±nÄ±f tanÄ±mlamamÄ±zÄ± yaptÄ±k.
 
-Beşinci bölümde C++ kurulumunu yaparak kalıtım ve çok biçimlilik konularını işledik.
+BeÅŸinci bÃ¶lÃ¼mde C++ kurulumunu yaparak kalÄ±tÄ±m ve Ã§ok biÃ§imlilik konularÄ±nÄ± iÅŸledik.
+
+![image](https://github.com/user-attachments/assets/3bd26ad8-5695-437a-8451-fd74a23873ac)
 
