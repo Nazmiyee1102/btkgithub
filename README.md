@@ -6,4 +6,5 @@ Dördüncü bölümde Python ile soyutlama, kalıtım ve çokbiçimlilik konular
 
 Beşinci bölümde C++ kurulumunu yaparak kalıtım ve çok biçimlilik konularını işledik.
 
-![image](https://github.com/user-attachments/assets/38f0073d-62fd-4ddf-ab65-b6dfbb71b1ea)
+![image](https://github.com/user-attachments/assets/3bd26ad8-5695-437a-8451-fd74a23873ac)
+
