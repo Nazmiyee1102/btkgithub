@@ -1,0 +1,26 @@
+@startuml
+title  Employee Model
+class Employee{
+    -fullName : String
+    -salary : double
+    --
+    +getFullName():String
+    +getSalary():double
+    --
+    +setName():String
+    +setSalary():double
+    --
+    +Employee(fullName:String,salary:double)
+    --
+    +toString():string
+}
+
+interface Comparable{
+    +compareTo(o:Object):int
+}
+
+Employee -up-|> Comparable : <<implements>>
+
+hide empty members 
+
+@enduml

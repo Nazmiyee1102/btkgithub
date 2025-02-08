@@ -1,0 +1,26 @@
+@startuml Static Class
+
+    class BankAccount{
+        #{static} accountName 
+        #{static} accountId
+        #{static} balance 
+        -{static} netId
+        --
+        +deposit(amount)
+        +withDraw(amount)
+        +toString()
+        +{static} getAccType() 
+    }
+
+    class CheckingAccount{
+        -overDrawftLimit
+        --
+        +withDraw(amount)
+        +toString()
+        +{static}getAccType() 
+    }
+
+    CheckingAccount -up-|> BankAccount 
+
+    
+@enduml

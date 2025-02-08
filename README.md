@@ -8,3 +8,4 @@ Beşinci bölümde C++ kurulumunu yaparak kalıtım ve çok biçimlilik konular�
 
 ![image](https://github.com/user-attachments/assets/3bd26ad8-5695-437a-8451-fd74a23873ac)
 
+![alt text](image.png)
