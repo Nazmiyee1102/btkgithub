@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\btkgithub\StackApp\bin\Debug\net9.0\StackApp.exe
+C:\Users\ASUS\Documents\btkgithub\StackApp\bin\Debug\net9.0\StackApp.deps.json
+C:\Users\ASUS\Documents\btkgithub\StackApp\bin\Debug\net9.0\StackApp.runtimeconfig.json
+C:\Users\ASUS\Documents\btkgithub\StackApp\bin\Debug\net9.0\StackApp.dll
+C:\Users\ASUS\Documents\btkgithub\StackApp\bin\Debug\net9.0\StackApp.pdb
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.AssemblyInfo.cs
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.sourcelink.json
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.dll
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\refint\StackApp.dll
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.pdb
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\StackApp.genruntimeconfig.cache
+C:\Users\ASUS\Documents\btkgithub\StackApp\obj\Debug\net9.0\ref\StackApp.dll

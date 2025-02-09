@@ -1,0 +1,9 @@
+@startuml Static 
+title static class
+class MathHelper {
+    + {static}  add(a:int, b:int)
+    + {static}  subtract( a:int,  b:int)
+    + {static}  multiply( a:int,  b:int)
+    + {static}  divide( a:int,  b:int)
+}
+@enduml
