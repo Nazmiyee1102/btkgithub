@@ -1,0 +1,21 @@
+@startuml is-a
+title inheritance
+
+class Animal{
+    +name: String
+    +makeSound(): String
+}
+
+class Dog{
+    +makeSound(): String
+}
+
+class Cat{
+    +makeSound(): String
+}
+
+Animal <|-down- Cat : <<extends>>
+Animal <|- Dog : <<extends>>
+
+hide empty members
+@enduml
